@@ -10,4 +10,4 @@ Before watching this course, it is expected that you have a working knowledge of
 
 If you do not have a background in Flexbox and/or CSS Grid, watch my previous course, "CSS Grid and Flexbox for Responsive Design," https://frontendmasters.com/courses/css-grid-flexbox-v2/
 
-If you do not have a background in CSS, watch my "Getting Started with CSS" course at https://frontendmasters.com/courses/getting-started-css/
+If you do not have a background in CSS, watch my "Getting Started with CSS" course at https://frontendmasters.com/courses/getting-started-css
